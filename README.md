@@ -14,4 +14,4 @@ this is a project that performs exploratory data analysis, data cleaning to data
 3. recommender system technique
    - [Based on the most popular content](https://en.wikipedia.org/wiki/Recommender_system)
    - [Collaborative filtering](https://en.wikipedia.org/wiki/Recommender_system)
-   - [Content-based filtering](Content-based filtering)
+   - [Content-based filtering](https://en.wikipedia.org/wiki/Recommender_system)
