@@ -8,7 +8,7 @@ This is a project to create a recommendation system based on the most popular, s
 
 <h3>- Based on content : </h3>
 
-<img src="recys.PNG" alt="">
+<img src="recys02.PNG" alt="">
 <p>The recommendation results from the content are : </p>
 
 <img src="recys03.PNG" alt="">
