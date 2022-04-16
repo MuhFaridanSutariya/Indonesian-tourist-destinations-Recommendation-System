@@ -3,6 +3,9 @@
 ## About This Project
 This is a project to create a recommendation system based on the most popular, similar content, preferences of other people. The purpose of this project is to be able to provide content that is in accordance with what the user wants. 
 
+<h3>The results of recommendations for tourist attractions in the city of Semarang, Indonesia</h3>
+<img src="rcys01.png" alt="">
+
 ## Technology, dataset, technique used :
 1. Machine Learning
    - [Python](https://www.python.org/)
