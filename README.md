@@ -6,6 +6,11 @@ This is a project to create a recommendation system based on the most popular, s
 <h3>- The results of recommendations based on the most ratings in tourist attractions in the city of Semarang, Indonesia : </h3>
 <img src="rcys01.PNG" alt="">
 
+<h3>- Based on content : </h3>
+<img src="rcys02.PNG" alt="">
+<p>The recommendation results from the content are : </p>
+<img src="rcys03.PNG" alt="">
+
 ## Technology, dataset, technique used :
 1. Machine Learning
    - [Python](https://www.python.org/)
