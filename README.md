@@ -7,11 +7,13 @@ This is a project to create a recommendation system based on the most popular, s
 <img src="rcys01.PNG" alt="">
 
 <h3>- Based on content : </h3>
-
 <img src="recys02.PNG" alt="">
-<p>The recommendation results from the content are : </p>
 
+<p>The recommendation results from the content are : </p>
 <img src="recys03.PNG" alt="">
+
+<h3>- Based preference other people</h3>
+<img src="recys04.PNG" alt="">
 
 ## Technology, dataset, technique used :
 1. Machine Learning
